@@ -1,0 +1,220 @@
+
+@media only screen and (min-width: 1281px) and (max-width: 9000px) {
+
+}
+
+@media only screen and (min-width: 1180px) and (max-width: 1280px) {
+ #navigation ul.menu li a {
+padding:3px 0px 22px 35px !important;
+} 
+}
+
+@media only screen and (min-width: 981px) and (max-width: 1180px) {
+ #navigation ul.menu li a {
+padding:3px 0px 22px 25px !important;
+} 
+}
+
+
+@media only screen and (min-width: 761px) and (max-width: 960px) {
+.leading-0 {
+width:100%;
+}
+ .cols-1 {
+width:100%;
+}
+
+.cols-2 .column-1 {
+width: 100%;
+float: left;
+}
+
+.cols-2 .column-2 {
+width: 100%;
+float: left;
+}
+
+.cols-3 .column-1 {
+float: left;
+width: 100%;
+padding: 0 5px; 
+margin-right: 4%
+}
+
+.cols-3 .column-2 {
+float: left;
+width: 100%;
+margin-left: 0;
+padding: 0 5px
+}
+
+.cols-3 .column-3 {
+float: left;
+width: 100%;
+padding: 0 5px
+} 
+
+.items-row {
+ overflow:visible ; 
+margin-bottom: 40px !important;
+}
+
+.items-row {
+ overflow:visible ; 
+margin-bottom: 40px !important;
+}
+
+div.leading-0 div.gk-article-blog span.article-info,
+div.item.column-1 div.gk-article-blog span.article-info,
+div.item.column-2 div.gk-article-blog span.article-info,
+div.item.column-3 div.gk-article-blog span.article-info,
+div.item.column-4 div.gk-article-blog span.article-info,
+div.item.column-5 div.gk-article-blog span.article-info{
+float:left;
+text-align: left; 
+font-size: 10.05px;
+margin:-11px 10px 20px 72px;
+padding:0;
+font-weight:normal;
+width:70% !important;
+display:inline;
+} 
+
+}
+
+
+@media only screen and (min-width: 0px) and (max-width: 760px) {
+.cols-1 {
+width:100%;
+margin:30px 0;
+}
+
+.cols-2 .column-1 {
+width: 100%;
+float: left;
+}
+
+.cols-2 .column-2 {
+width: 100%;
+float: left;
+
+}
+
+.cols-3 .column-1 {
+float: left;
+width: 100%;
+margin:30px 0;
+}
+
+.cols-3 .column-2 {
+float: left;
+width: 100%;
+margin:30px 0;
+}
+
+.cols-3 .column-3 {
+float: left;
+width: 100%;
+margin:30px 0;
+
+} 
+
+
+div.leading-0 div.gk-article-blog h2.article-header-blog,
+div.leading-1 div.gk-article-blog h2.article-header-blog,
+div.leading-2 div.gk-article-blog h2.article-header-blog,
+div.leading-3 div.gk-article-blog h2.article-header-blog,
+div.leading-4 div.gk-article-blog h2.article-header-blog,
+div.item.column-1 div.gk-article-blog h2.article-header-blog,
+div.item.column-2 div.gk-article-blog h2.article-header-blog,
+div.item.column-3 div.gk-article-blog h2.article-header-blog,
+div.item.column-4 div.gk-article-blog h2.article-header-blog,
+div.item.column-5 div.gk-article-blog h2.article-header-blog{
+font-size:20px !important;
+
+}
+
+.items-row {
+ overflow:visible ; 
+margin-bottom: 40px !important;
+}
+
+
+div.leading-0 div.gk-article-blog span.article-info,
+div.leading-1 div.gk-article-blog span.article-info,
+div.leading-2 div.gk-article-blog span.article-info,
+div.leading-3 div.gk-article-blog span.article-info,
+div.leading-4 div.gk-article-blog span.article-info,
+div.item.column-1 div.gk-article-blog span.article-info,
+div.item.column-2 div.gk-article-blog span.article-info,
+div.item.column-3 div.gk-article-blog span.article-info,
+div.item.column-4 div.gk-article-blog span.article-info,
+div.item.column-5 div.gk-article-blog span.article-info{
+/* float:left;
+text-align: left; 
+font-size: 10.05px;
+margin:-11px 10px 20px 72px !important;
+padding:0;
+font-weight:normal;
+width:100% !important;
+display:inline; */
+} 
+
+ #portfolio-item-container li.portfolio-item{
+padding:0;
+margin:0 0 -5px 0 !important;
+width:33.333333%;
+float:left;
+text-align:center;
+overflow:hidden;
+
+}
+
+#search {
+display:none;
+}
+
+.grid_5 .soc_icons_box{
+display:none;
+}
+
+#breadcrumbs {
+display:none;
+}
+
+#nav-top {
+float:none;
+text-align:center;
+background:#000; 
+
+}
+
+div#sitename {
+text-align:center;
+margin:0;
+padding:15px 0 0 0;
+height:30px;
+} 
+
+.grid_1 .menuButon{
+float:left;
+	visibility:visible;
+	text-align:center;
+	height:80px;
+	width:100%;
+	margin-bottom:150px;
+}
+ 
+.grid_8 #navigation{
+ display:none; 
+}
+
+#top-header {
+height:130px;
+}
+
+div#calloutbox {
+display:none;
+}
+
+}
